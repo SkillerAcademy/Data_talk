@@ -1,6 +1,6 @@
 ## CURSOS
 
-[**Bootcamp Data Driven Marketing**](https://skiller.education/bootcamp-data-driven-marketing/): próxima edición 25 de noviembre de 2022.
+[**Bootcamp Data Driven Marketing**](https://skiller.education/bootcamp-data-driven-marketing/): próxima edición 24 de marzo de 2023.
 
 ## EVENTOS
 
@@ -8,7 +8,17 @@
 
 [**Silicon Data Day 2022**](https://www.eventbrite.es/e/entradas-silicon-data-day-2022-425659387687?aff=ebdssbdestsearch): los mejores expertos y directivos del sector compartirán su conocimiento y experiencia respecto a las estrategias, soluciones, infraestructuras tecnológicas, novedades regulatorias, casos de éxito y tendencias del gobierno del dato. Una oportunidad única para profundizar en el apasionante reto que plantea el contexto actual de la mano de los mejores en su ámbito.
 
-## WEBS RECOMENDADAS
+## LIBROS
+
+[**Mide lo que importa – John Doerr**](https://www.amazon.es/Mide-que-importa-Fundaci%C3%B3n-cambian/dp/8416883262): habla de cómo grandes empresas tecnológicas tuvieron que organizarse para adaptarse a los cambios y a un crecimiento exponencial. Ayuda a entender como priorizar, organizarse y liderar en el entorno digital.
+
+[**La enciclopedia del Community Manager – Manuel Moreno**](https://www.amazon.es/enciclopedia-del-community-manager-colecci%C3%B3n/dp/8423429245): es un libro recomendado como introducción a redes sociales y para asentar conceptos básicos de gestión de cuentas. Un libro de cabecera para profesionales de las redes sociales.
+
+[**Data Analytics. Mide y vencerás – Iñaki Gorostia y Asier Barainka**](https://www.amazon.es/Data-Analytics-Vencer%C3%A1s-SOCIAL-MEDIA/dp/8441541930): un libro esencial para tener una visión estratégica de un plan completo de analítica de datos.
+
+[**El espíritu creativo – Daniel Goleman**](https://www.amazon.es/El-esp%C3%ADritu-creativo-B-BOLSILLO/dp/8498724554): este libro nos enseña a desempolvar nuestra imaginación, nuestra creatividad, de bloquear todos esos pensamientos y hábitos que nos lo impiden.
+
+## WEBS RECOMENDADAS 
 
 [**Martech Series**](https://martechseries.com/)
 
