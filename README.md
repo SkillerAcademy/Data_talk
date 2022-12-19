@@ -4,6 +4,14 @@
 
 ## EVENTOS
 
+[**Technology for Marketing**](https://eshow.es/barcelona/tfm): los días 7 y 8 de marzo de 2023 en la Feria de Barcelona Montjuic.
+
+[**Digital Enterprise Show 2023**](https://www.des-show.com/): los días 13 y 15 de junio de 2023 en Málaga - FYCMA.
+
+[**11º eCongress Málaga 2023**](https://fycma.com/evento/11o-econgress-malaga-2023/): 17 de junio de 2023 en Málaga - FYCMA.
+
+[**Premios Nacionales de Marketing XV Edición**](https://www.asociacionmkt.es/premios-nacionales-de-marketing/): la AMKT organiza de nuevo los Premios Nacionales de Marketing el 22 de junio de 2023 en Uzalacaín La Finca.
+
 [**Encuentro presencial Fútbol&Data**](https://www.eventbrite.es/e/entradas-encuentro-presencial-futboldata-madrid-ai-nov22-debate-networking-445987930907?aff=ebdssbdestsearch): un nuevo encuentro Madrid AI en la sede de LaLiga con expertos del data science deportivo de los clubs, debate, networking.
 
 [**Silicon Data Day 2022**](https://www.eventbrite.es/e/entradas-silicon-data-day-2022-425659387687?aff=ebdssbdestsearch): los mejores expertos y directivos del sector compartirán su conocimiento y experiencia respecto a las estrategias, soluciones, infraestructuras tecnológicas, novedades regulatorias, casos de éxito y tendencias del gobierno del dato. Una oportunidad única para profundizar en el apasionante reto que plantea el contexto actual de la mano de los mejores en su ámbito.
